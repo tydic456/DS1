@@ -1,0 +1,26 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.ex1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\bin\Debug\exercícios.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\bin\Debug\exercícios.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.ex2.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.ex3.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.ex4.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\exercícios\obj\x86\Debug\exercícios.ex5.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.exe
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.pdb
+C:\Users\Aluno\Desktop\exercícios\exercícios\bin\Debug\exercícios.exe
+C:\Users\Aluno\Desktop\exercícios\exercícios\bin\Debug\exercícios.pdb
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex1.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex2.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex3.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex4.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex5.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.Form1.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.Properties.Resources.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex6.resources
+C:\Users\Aluno\Desktop\exercícios\exercícios\obj\x86\Debug\exercícios.ex7.resources
